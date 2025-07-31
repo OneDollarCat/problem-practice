@@ -20,6 +20,10 @@ Ok, and to run my code, copy and paste it to an IDE which can compile code in C+
 - 1. Copy and paste the code into a *C++ file* (.cpp).
 - 2. Compile it using *any compiler*:
 ``` bash
-g++ hello.cpp -o hello
-./hello
+g++ fileName.cpp -o fileName
+./fileName
 ```
+## About
+Name: OneDollarCat
+Email: onedollarcat093@gmail.com 
+My blog: cppcrumbs.blogspot.com
