@@ -26,4 +26,5 @@ g++ fileName.cpp -o fileName
 ## About
 Name: OneDollarCat
 Email: onedollarcat093@gmail.com 
-My blog: cppcrumbs.blogspot.com
+
+You can also *follow [my blog](https://cppcrumbs.blogspot.com)!*
