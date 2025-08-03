@@ -17,8 +17,8 @@ int main() {
 }
 ```
 Ok, and to run my code, copy and paste it to an IDE which can compile code in C++, or you can:
-- 1. Copy and paste the code into a *C++ file* (.cpp).
-- 2. Compile it using *any compiler*:
+- Copy and paste the code into a *C++ file* (.cpp).
+- Compile it using *any compiler*:
 ``` bash
 g++ fileName.cpp -o fileName
 ./fileName
