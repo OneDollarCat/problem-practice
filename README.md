@@ -19,8 +19,15 @@ int main() {
 Ok, and to run my code, copy and paste it to an IDE which can compile code in C++, or you can:
 - Copy and paste the code into a *C++ file* (.cpp).
 - Compile it using *any compiler*:
+  
+Using g++:
 ``` bash
 g++ fileName.cpp -o fileName
+./fileName
+```
+Using clang:
+``` bash
+clang fileName.cpp -o fileName
 ./fileName
 ```
 ## About
