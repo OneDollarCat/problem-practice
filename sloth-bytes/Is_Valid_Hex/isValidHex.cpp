@@ -1,4 +1,4 @@
-#include "hex.h"
+#include "hexValidator.hpp"
 #include <vector>
 #include <algorithm>
 using namespace std;
@@ -16,4 +16,4 @@ bool isValidHex(const string& code) {
           }
           return true;
      }
-}
+} 

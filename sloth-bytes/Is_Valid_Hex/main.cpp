@@ -1,4 +1,4 @@
-#include "hex.h"
+#include "hexValidator.hpp"
 #include <iostream>
 using namespace std;
 
@@ -26,3 +26,4 @@ int main() {
       cout << isValidHex("CD5C5C") << '\n'; // false
       return 0;
 }
+

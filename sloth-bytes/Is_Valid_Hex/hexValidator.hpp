@@ -1,5 +1,5 @@
-#ifndef HEX_H
-#define HEX_H
+#ifndef hexValidator_hpp
+#define hexValidator_hpp
 
 #include <string>
 
