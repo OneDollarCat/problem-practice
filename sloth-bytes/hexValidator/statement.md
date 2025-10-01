@@ -36,5 +36,5 @@ is_valid_hex_code("CD5C5C");
 */
 ```
 ___
-[Sloth Bytes](https://slothbytes.beehiiv.com)
+[Sloth Bytes](https://slothbytes.beehiiv.com)  
 Issue: [August 26, 2025](https://slothbytes.beehiiv.com/p/two-factor-codes)
