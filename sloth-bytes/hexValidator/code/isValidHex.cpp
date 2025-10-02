@@ -1,6 +1,3 @@
-/* Check README file for more details (link below)
-https://github.com/OneDollarCat/sloth-bytes/blob/main/hexValidator/README.md
-*/
 #include "hex.hpp"
 #include <vector>
 #include <algorithm>
