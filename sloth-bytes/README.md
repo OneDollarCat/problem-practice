@@ -18,22 +18,22 @@ Each of these sub-directories contains:
   - The **tests file**, which calls the function (also a `.cpp` file)
   - The **header file** to link both the source and the main files (It's also written in C++, but commonly has a `.h` or a `.hpp` extension, I use the `.hpp` extension, but note that it doesn't matter anyway.)
 ## ⚒ How to use:
-### 1. 📂 Clone the repo
+### 1. 📁 Clone the repo
 If you haven't already, **clone this repo** using this command:
 ``` bash
 git clone https://github.com/OneDollarCat/problem-practice.git
 ```
-### 2. 📍 Navigate to the problem sub-directory
+### 2. 🧭 Navigate to the problem sub-directory
 To enter the sub-directory of a problem, say `problem1`, use this command:
 ``` bash
 cd problem-practice/sloth-bytes/problem1
 ```
-### 3. Enter the code sub-directory
+### 3. 📂 Enter the code sub-directory
 For this:
 ``` bash
 cd code
 ```
-### 4. Compile and run
+### 4. 🏃‍♂️ Compile and run
 Note that each problem will have *three* files:
 1. The header file (`.hpp`)
 2. The function source file (`functionName.cpp`)
@@ -43,11 +43,11 @@ To compile the files into an **executable** (it can be named *anything*, here I'
 g++ functionName.cpp main.cpp -o execName
 ```
 To execute:
-1. On **Windows** (Command Prompt)
+1. 🪟 On **Windows** (Command Prompt)
 ``` bash
 .\execName
 ```
-2. On **MacOS / Linux**
+2. 🍎 🐧 On **MacOS / Linux**
 ``` bash
 ./execName
 ```
