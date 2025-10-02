@@ -20,20 +20,37 @@ Each of these sub-directories contains:
 ## ⚒ How to use:
 ### 1. 📂 Clone the repo
 If you haven't already, **clone this repo** using this command:
-``` Bash
+``` bash
 git clone https://github.com/OneDollarCat/problem-practice.git
 ```
 ### 2. 📍 Navigate to the problem sub-directory
 To enter the sub-directory of a problem, say `problem1`, use this command:
-```Bash
+``` bash
 cd problem-practice/sloth-bytes/problem1
 ```
 ### 3. Enter the code sub-directory
 For this:
-``` Bash
+``` bash
 cd code
 ```
-### 4.  
+### 4. Compile and run
+Note that each problem will have *three* files:
+1. The header file (`.hpp`)
+2. The function source file (`functionName.cpp`)
+3. The main source file (always named `main.cpp`)
+To compile the files into an **executable** (it can be named *anything*, here I'll name it `execName`) , using the command line and `g++`:
+``` bash
+g++ functionName.cpp main.cpp -o execName
+```
+To execute:
+1. On **Windows** (Command Prompt)
+``` bash
+.\execName
+```
+2. On **MacOS / Linux**
+``` bash
+./execName
+```
 Ok, that's all for now, `</OneDollarCat>`
 ___
 (P.S.: If you reached all the way here, **subscribe** to [his channel](www.youtube.com/@TheCodingSloth) and **follow** [his newsletter](slothbytes.beehiiv.com) as well, trust me, it's *great*.  
