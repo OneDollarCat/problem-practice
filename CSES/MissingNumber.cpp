@@ -22,4 +22,3 @@ int main() {
    cout << missing;
    return 0;
 }
-
